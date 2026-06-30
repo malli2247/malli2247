@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi 👋, I'm Boya Mallikarjuna
 
-<!--
-**malli2247/malli2247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 AI & ML Engineer | Full Stack Developer | Problem Solver
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning at Uttaranchal University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building AI applications, scalable web platforms, and solving Data Structures & Algorithms problems.
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech CSE (AI & ML)
+- 💻 Full Stack Developer
+- 🤖 AI & Machine Learning Enthusiast
+- 🌱 Currently building RakthaSethu
+- 📚 Solving LeetCode Daily
+- 🚀 Open Source Contributor
+
+---
+
+## Skills
+
+### Languages
+
+Python • Java • C • JavaScript
+
+### Frontend
+
+HTML • CSS • React
+
+### Backend
+
+FastAPI • Flask • Node.js
+
+### Database
+
+MySQL • MongoDB
+
+### AI/ML
+
+TensorFlow
+Scikit-Learn
+OpenCV
+Pandas
+NumPy
+
+---
+
+## Featured Projects
+
+🚑 RakthaSethu
+AI-powered Blood Emergency Management Platform
+
+🌱 Plant Disease Detection
+CNN model for detecting healthy and unhealthy crops
+
+🌐 Personal Portfolio
+Modern animated developer portfolio
+
+📚 DSA Repository
+LeetCode solutions with optimized approaches
+
+## Connect with Me
+
+LinkedIn:
+https://linkedin.com/in/mallikarjuna-boya
+
+Email:
+242101011334@uudoon.in
+
+Portfolio:
+Coming Soon 🚀
