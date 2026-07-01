@@ -1,73 +1,183 @@
+<div align="center">
+
 # Hi 👋, I'm Boya Mallikarjuna
 
-## 🚀 AI & ML Engineer | Full Stack Developer | Problem Solver
+### 🚀 Software Engineering | AI & ML Enthusiast | Full Stack Developer
 
-I'm a Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning at Uttaranchal University.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=AI+%26+ML+Student;Software+Engineer+in+the+Making;Full+Stack+Developer;DSA+Enthusiast;Building+Real+World+Projects" />
 
-I enjoy building AI applications, scalable web platforms, and solving Data Structures & Algorithms problems.
+<img src="https://komarev.com/ghpvc/?username=malli2247&label=Profile+Views&color=0e75b6&style=flat" />
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 B.Tech CSE (AI & ML)
-- 💻 Full Stack Developer
-- 🤖 AI & Machine Learning Enthusiast
-- 🌱 Currently building RakthaSethu
-- 📚 Solving LeetCode Daily
-- 🚀 Open Source Contributor
+</div>
 
 ---
 
-## Skills
+# 💫 About Me
+
+🎓 B.Tech Computer Science Engineering (AI & ML)
+
+🏫 Uttaranchal University, Dehradun
+
+💻 Passionate about solving real-world problems using AI, Machine Learning and Full Stack Development.
+
+🌱 Currently learning
+
+- Advanced Data Structures & Algorithms
+- System Design
+- Backend Development
+- Artificial Intelligence
+- Cloud Computing
+
+🎯 Goal
+
+Become a Software Engineer at a top product-based company while building impactful AI applications.
+
+---
+
+# 🛠 Tech Stack
 
 ### Languages
 
-Python • Java • C • JavaScript
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Frontend
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
 
-HTML • CSS • React
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
-### Backend
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge)
 
-FastAPI • Flask • Node.js
-
-### Database
-
-MySQL • MongoDB
-
-### AI/ML
-
-TensorFlow
-Scikit-Learn
-OpenCV
-Pandas
-NumPy
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge)
 
 ---
 
-## Featured Projects
+### Frontend
 
-🚑 RakthaSethu
-AI-powered Blood Emergency Management Platform
+![HTML5](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
 
-🌱 Plant Disease Detection
-CNN model for detecting healthy and unhealthy crops
+![CSS3](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
 
-🌐 Personal Portfolio
-Modern animated developer portfolio
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
-📚 DSA Repository
-LeetCode solutions with optimized approaches
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
-## Connect with Me
+---
 
-LinkedIn:
+### Backend
+
+![Python](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+
+![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
+
+---
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+
+---
+
+### Tools
+
+Git • GitHub • VS Code • Docker • Postman • Linux
+
+---
+
+# 🚀 Featured Projects
+
+## 🩸 RakthaSethu
+
+AI-powered Blood Donation & Emergency Response Platform
+
+### Features
+
+- AI Donor Matching
+- Emergency Blood Requests
+- Hospital Dashboard
+- Blood Bank Management
+- Offline Support
+- Location Tracking
+- Rare Blood Group Network
+
+---
+
+## 🤖 AI Resume Analyzer
+
+Analyze resumes using Machine Learning and NLP.
+
+---
+
+## 💼 Personal Portfolio
+
+Modern animated portfolio built using HTML, CSS & JavaScript.
+
+---
+
+## 📚 LeetCode Solutions
+
+Consistently solving Data Structures & Algorithms problems.
+
+---
+
+# 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=malli2247&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=malli2247&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=malli2247&layout=compact&theme=tokyonight)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=malli2247&theme=algolia&no-frame=true&row=2&column=4)
+
+---
+
+# 📊 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=malli2247&theme=react-dark)
+
+---
+
+# 💻 Coding Profiles
+
+### LeetCode
+
+https://leetcode.com/
+
+### HackerRank
+
+https://www.hackerrank.com/
+
+### CodeChef
+
+https://www.codechef.com/
+
+---
+
+# 🌐 Connect With Me
+
+LinkedIn
+
 https://linkedin.com/in/mallikarjuna-boya
 
-Email:
+GitHub
+
+https://github.com/malli2247
+
+Email
+
 242101011334@uudoon.in
 
-Portfolio:
-Coming Soon 🚀
+---
+
+<div align="center">
+
+## ⭐ "Code. Learn. Build. Repeat."
+
+### Thanks for visiting my profile!
+
+</div>
