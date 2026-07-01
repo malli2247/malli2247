@@ -68,7 +68,6 @@ Become a Software Engineer at a top product-based company while building impactf
 
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
 
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
 
 ---
 
@@ -80,37 +79,7 @@ Become a Software Engineer at a top product-based company while building impactf
 
 ### Tools
 
-Git • GitHub • VS Code • Docker • Postman • Linux
-
----
-
-# 🚀 Featured Projects
-
-## 🩸 RakthaSethu
-
-AI-powered Blood Donation & Emergency Response Platform
-
-### Features
-
-- AI Donor Matching
-- Emergency Blood Requests
-- Hospital Dashboard
-- Blood Bank Management
-- Offline Support
-- Location Tracking
-- Rare Blood Group Network
-
----
-
-## 🤖 AI Resume Analyzer
-
-Analyze resumes using Machine Learning and NLP.
-
----
-
-## 💼 Personal Portfolio
-
-Modern animated portfolio built using HTML, CSS & JavaScript.
+Git • GitHub • VS Code
 
 ---
 
@@ -130,11 +99,6 @@ Consistently solving Data Structures & Algorithms problems.
 
 ---
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=malli2247&theme=algolia&no-frame=true&row=2&column=4)
-
----
 
 # 📊 Contribution Graph
 
@@ -146,15 +110,16 @@ Consistently solving Data Structures & Algorithms problems.
 
 ### LeetCode
 
-https://leetcode.com/
+https://leetcode.com/u/Mallikarjuna_Boya/
 
 ### HackerRank
 
-https://www.hackerrank.com/
+https://www.hackerrank.com/profile/boyamallikarjun4
+
 
 ### CodeChef
 
-https://www.codechef.com/
+https://www.codechef.com/users/nifty_shore_74
 
 ---
 
