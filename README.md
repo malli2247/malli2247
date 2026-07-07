@@ -134,16 +134,6 @@ To become a Software Engineer at a leading product-based company while contribut
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=malli2247&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
 # 🧠 Currently Learning
 
 ```text
