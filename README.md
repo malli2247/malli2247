@@ -10,8 +10,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=malli2247&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/malli2247?style=for-the-badge&logo=github"/>
-
 <img src="https://img.shields.io/github/stars/malli2247?affiliations=OWNER&style=for-the-badge"/>
 
 </p>
